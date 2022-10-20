@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef _PRINTF_H_
+#define _PRINTF_H_
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -33,4 +33,4 @@ int print_S(va_list S);
 int print_r(va_list r);
 int print_R(va_list R);
 
-#endif /* MAIN_H */
+#endif /* _PRINTF_H_ */
